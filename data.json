@@ -1,0 +1,107 @@
+{
+    "data": {
+        "mogML": {
+            "config": {
+                "nonWorkingDay": 1,
+                "hoursWorkedPerWeek": 30,
+                "hoursInFullTimeWeek": 37.5,
+                "hoursPerWorkingDay": 7.5,
+                "leaveAllowance": 150
+            },
+            "bankHolidays": {
+                "24": [
+                    "January 1, 2024",
+                    "March 29, 2024",
+                    "April 1, 2024",
+                    "May 6, 2024",
+                    "May 27, 2024",
+                    "August 26, 2024",
+                    "December 25, 2024",
+                    "December 26, 2024"
+                ]
+            }
+        },
+        "mogIBMProRata": {
+            "config": {
+                "nonWorkingDay": 1,
+                "hoursWorkedPerWeek": 32,
+                "hoursInFullTimeWeek": 40,
+                "hoursPerWorkingDay": 8,
+                "leaveAllowance": 88
+            },
+            "bankHolidays": {
+                "23/24": [
+                    "25 December, 2023",
+                    "26 December, 2023",
+                    "1 January, 2024",
+                    "29 March, 2024",
+                    "1 April, 2024"
+                ]
+            }
+        },
+        "mog": {
+            "config": {
+                "nonWorkingDay": 1,
+                "hoursWorkedPerWeek": 32,
+                "hoursInFullTimeWeek": 40,
+                "hoursPerWorkingDay": 8,
+                "leaveAllowance": 160
+            },
+            "bankHolidays": {
+                "23/24": [
+                    "7 April, 2023",
+                    "10 April, 2023",
+                    "1 May, 2023",
+                    "8 May, 2023",
+                    "29 May, 2023",
+                    "28 August, 2023",
+                    "25 December, 2023",
+                    "26 December, 2023",
+                    "1 January, 2024",
+                    "29 March, 2024",
+                    "1 April, 2024"
+                ],
+                "24/25": [
+                    "6 May, 2024",
+                    "27 May, 2024",
+                    "26 August, 2024",
+                    "25 December, 2024",
+                    "26 December, 2024",
+                    "1 January, 2025"
+                ]
+            }
+        },
+        "fitzy": {
+            "config": {
+                "nonWorkingDay": 3,
+                "hoursWorkedPerWeek": 30,
+                "hoursInFullTimeWeek": 37.5,
+                "hoursPerWorkingDay": 7.5,
+                "leaveAllowance": 198
+            },
+            "bankHolidays": {
+                "23/24": [
+                    "7 April, 2023",
+                    "10 April, 2023",
+                    "1 May, 2023",
+                    "8 May, 2023",
+                    "29 May, 2023",
+                    "28 August, 2023",
+                    "25 December, 2023",
+                    "26 December, 2023",
+                    "1 January, 2024",
+                    "29 March, 2024"
+                ],
+                "24/25": [
+                    "1 April, 2024",
+                    "6 May, 2024",
+                    "27 May, 2024",
+                    "26 August, 2024",
+                    "25 December, 2024",
+                    "26 December, 2024",
+                    "1 January, 2025"
+                ]
+            }
+        }
+    }
+}
